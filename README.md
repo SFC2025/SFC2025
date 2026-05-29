@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./8.jpg" width="100%" alt="Forest Banner" />
+<img src="./8.png" width="100%" alt="Forest Banner" />
 
 <br />
 

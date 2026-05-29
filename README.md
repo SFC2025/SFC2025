@@ -37,14 +37,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SFC2025&layout=compact&theme=vue-dark&hide_border=true&bg_color=0B3D2E&title_color=7CFFB2&text_color=ffffff" />
-
-<br /><br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SFC2025&theme=vue-dark&hide_border=true&background=0B3D2E&ring=7CFFB2&fire=7CFFB2&currStreakLabel=7CFFB2" />
-
-<br /><br />
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,50:1E7A4D,100:7CFFB2&height=120&section=footer" />
 
 </div>

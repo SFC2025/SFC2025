@@ -4,7 +4,7 @@
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&section=header&text=Frontend%20Developer&fontSize=42&fontColor=1E7A4D&animation=fadeIn&desc=React%20%C2%B7%20JavaScript%20%C2%B7%20TypeScript%20%C2%B7%20Responsive%20Web&descSize=16&descAlignY=75" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=130&section=header&text=Frontend%20Developer&fontSize=42&fontColor=1E7A4D&animation=fadeIn&desc=React%20%C2%B7%20JavaScript%20%C2%B7%20TypeScript%20%C2%B7%20Responsive%20Web&descSize=16&descAlignY=78" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=1E7A4D&center=true&vCenter=true&width=700&lines=Interfaces+modernas+y+responsive;Landing+pages+y+sitios+web;React+%2B+JavaScript+%2B+TypeScript;Deploys+en+Vercel%2C+Render+y+GitHub+Pages" />
 

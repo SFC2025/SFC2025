@@ -1,48 +1,50 @@
-<p align="center">
-  <img src="./8.jpg" width="100%" alt="Banner forest" />
-</p>
+<div align="center">
 
-<h1 align="center">Frontend Developer</h1>
+<img src="./8.jpg" width="100%" alt="Forest Banner" />
 
-<p align="center">
-  <strong>HTML · CSS · JavaScript · TypeScript · React · Node.js</strong>
-</p>
+<br />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,vscode,vercel,figma" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&section=header&text=Frontend%20Developer&fontSize=42&fontColor=1E7A4D&animation=fadeIn&desc=React%20%C2%B7%20JavaScript%20%C2%B7%20TypeScript%20%C2%B7%20Responsive%20Web&descSize=16&descAlignY=75" />
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=1E7A4D&center=true&vCenter=true&width=700&lines=Interfaces+modernas+y+responsive;Landing+pages+y+sitios+web;React+%2B+JavaScript+%2B+TypeScript;Deploys+en+Vercel%2C+Render+y+GitHub+Pages" />
 
-<table align="center">
+<br />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,vscode,vercel,figma&perline=11" />
+
+<br /><br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B3D2E,100:1E7A4D&height=4&section=header" />
+
+</div>
+
+<table>
   <tr>
-    <td align="center" width="33%">
+    <td width="33%" align="center">
       <h3>Frontend</h3>
-      <p>Interfaces modernas, responsive y limpias.</p>
+      <p>Interfaces limpias, modernas y adaptadas a todos los dispositivos.</p>
     </td>
-    <td align="center" width="33%">
+    <td width="33%" align="center">
+      <h3>Web Apps</h3>
+      <p>Proyectos con React, JavaScript, TypeScript y estructura escalable.</p>
+    </td>
+    <td width="33%" align="center">
       <h3>Deploy</h3>
-      <p>Proyectos publicados en Vercel, Render y GitHub Pages.</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>Freelance</h3>
-      <p>Landing pages, sitios web y sistemas simples.</p>
+      <p>Publicación en Vercel, Render y GitHub Pages.</p>
     </td>
   </tr>
 </table>
 
----
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SFC2025&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SFC2025&layout=compact&theme=vue-dark&hide_border=true&bg_color=0B3D2E&title_color=7CFFB2&text_color=ffffff" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SFC2025&theme=tokyonight&hide_border=true" />
-</p>
+<br /><br />
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SFC2025&theme=vue-dark&hide_border=true&background=0B3D2E&ring=7CFFB2&fire=7CFFB2&currStreakLabel=7CFFB2" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,100:1E7A4D&height=120&section=footer" />
-</p>
+<br /><br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,50:1E7A4D,100:7CFFB2&height=120&section=footer" />
+
+</div>
